@@ -6,7 +6,7 @@
 body{
 
       
-    background-image: url("/images/pexels-pixabay-276452.jpg");    
+    background-image: url("/images/pexels-pixabay-270632.jpg");    
     background-size: cover;
     font-family: 'Prompt', sans-serif;
     color: white;
@@ -36,7 +36,8 @@ h1{
 
 p{
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
+    font-weight: 300;
     margin-top: 5px;
     margin-bottom: 25px;
 }
